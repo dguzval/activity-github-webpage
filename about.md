@@ -1,7 +1,7 @@
-#More About Me
-###This page says a bit more about me
+# More About Me
+### This page says a bit more about me
 
-##Hobbies
+## Hobbies
 ---
 When I have free time this is usually what I do:
 * Soccer
@@ -10,7 +10,7 @@ When I have free time this is usually what I do:
 * Anime
 * Photography
 
-##Games
+## Games
 ---
 Some of the video games that I love playing are Apex Legends and Cyberpunk, with Apex Legends being my favorite.
 
@@ -20,7 +20,7 @@ Besides playing them, I also love creating them using [Unreal Engine 5](https://
 
 
 
-#Animes
+# Animes
 ---
 When I'm not creating games, or watching movies, I'm trying to finish off my list of anime movies. This table lists some of the ones I've watched and how I enjoyed them. 
 
