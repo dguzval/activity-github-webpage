@@ -2,7 +2,7 @@
 ### This page says a bit more about me
 
 ## Hobbies
----
+--
 When I have free time this is usually what I do:
 * Soccer
 * Video Games
@@ -11,7 +11,7 @@ When I have free time this is usually what I do:
 * Photography
 
 ## Games
----
+--
 Some of the video games that I love playing are Apex Legends and Cyberpunk, with Apex Legends being my favorite.
 
 ![Apex Legends Image](Apex-Legends-2.png)
