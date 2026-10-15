@@ -19,7 +19,7 @@ Besides playing them, I also love creating them using [Unreal Engine 5](https://
 
 
 # Animes
-When I'm not creating games, or watching movies, I'm trying to finish off my list of anime movies. This table lists some of the ones I've watched and how I enjoyed them. 
+When I'm not creating games, or watching movies, I'm trying to finish off my list of anime shows. I'm currently watching Full Metal Alchemist but this table lists some of the ones I've already finished watched and how I enjoyed them. 
 
 |Anime | Rating |
 |-----|-----|
